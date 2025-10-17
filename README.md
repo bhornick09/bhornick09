@@ -26,8 +26,10 @@
 ---
 
 ### 📊 My Certifications 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<img src="https://img.shields.io/badge/-CompTIA-C8202F?style=flat&logo=comptia&logoColor=white"/>
+**CompTIA:** Security+
+<img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+**Amazon Web Services:** AWS Certified Developer Associate
 
 ---
 
