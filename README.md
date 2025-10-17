@@ -26,10 +26,10 @@
 ---
 
 ### 📊 My Certifications 
-* ![CompTIA](<https://img.shields.io/badge/-CompTIA-C8202F?style=flat&logo=comptia&logoColor=white>) 
-Security+
-* ![AWS](<https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white>)
-  AWS Certified Developer Associate
+![CompTIA](<https://img.shields.io/badge/-CompTIA-C8202F?style=flat&logo=comptia&logoColor=white>) 
+![AWS](<https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white>)
+* Security+
+* AWS Certified Developer Associate
 
 ---
 
