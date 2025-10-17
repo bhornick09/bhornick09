@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>When I code, I rely on</h3>
+<h3>When I code, I most often use</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Language-Java-blue" />
   <img alt "C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
 </p>
 
-- 🔭 I’m currently working on ...
-- Gym Simulator - Unity Game using Blender for modeling and C# for scripting.
+<h3> 🔭 I’m currently working on </h3>
+<li> Gym Simulator - Unity Game using Blender for modeling and C# for scripting. </li>
 
-- My GitHub Stats
+<h3> My GitHub Stats </h3>
 ![Brandon's stats](https://github-readme-stats.vercel.app/api?username=bhornick09&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <h3> 📫 How to reach me: </h3>
