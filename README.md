@@ -25,11 +25,9 @@
 
 ---
 
-### 📊 My GitHub Stats 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/images/a590212f-93d3-467d-9279-b1d120a1c62f/AWS-Cloud-Practitioner-2024.png)](https://www.credly.com/badges/bdbbd440-00bb-4892-80e4-84eb83baf183/public_url)
-<img src="//cdn.credly.com/assets/utilities/embed.js"/>
-
-![Brandon's stats](https://github-readme-stats.vercel.app/api?username=bhornick09&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+### 📊 My Certifications 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ---
 
