@@ -1,20 +1,6 @@
 ## Hi there, I'm Brandon Hornick 👋
 
-<!--
-**bhornick09/bhornick09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>When I code, I most often use</h3>
+<h3>😄 When I code, I most often use</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Language-Java-blue" />
   <img alt "C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -28,7 +14,11 @@ Here are some ideas to get you started:
 </p>
 
 <h3> 🔭 I’m currently working on </h3>
-<li> Gym Simulator - Unity Game using Blender for modeling and C# for scripting. </li>
+<ul>
+  <li> Gym Simulator - Unity Game using Blender for modeling and C# for scripting. Currently complete: Bench press functionality, leveling system,
+  strength-to-weight difficulty, adding and removing weights to barbell/machine </li>
+  <li> My Bachelor's Degree in Computer Science - Southern New Hampshire University (March 2026) </li>
+</ul>
 
 <h3> My GitHub Stats </h3>
 ![Brandon's stats](https://github-readme-stats.vercel.app/api?username=bhornick09&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
