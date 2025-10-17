@@ -1,9 +1,10 @@
 ## Hi there, I'm Brandon Hornick 👋
-** Computer Science Student and Aspiring Software Engineer with a focus in Java, C++, and C# Development. **
+**Computer Science Student and Aspiring Software Engineer with a focus in Java, C++, and C# Development.**
 
 ---
 
 ### 😄 When I code, I most often use
+<p>
   <img alt="Java" src="https://img.shields.io/badge/Language-Java-blue" />
   <img alt "C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
@@ -13,6 +14,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
+</p>
   
 ---
 
