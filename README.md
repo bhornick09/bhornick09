@@ -5,11 +5,12 @@
 
 ### 😄 When I code, I most often use
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Language-Java-blue" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk" />
   <img alt "C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
