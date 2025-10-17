@@ -26,8 +26,8 @@
 ---
 
 ### 📊 My GitHub Stats 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3c94aefb-6c99-43f4-9bdd-db42a86e86db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdbbd440-00bb-4892-80e4-84eb83baf183" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/bdbbd440-00bb-4892-80e4-84eb83baf183/public_url"/>
+<img src="//cdn.credly.com/assets/utilities/embed.js"/>
 
 ![Brandon's stats](https://github-readme-stats.vercel.app/api?username=bhornick09&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
