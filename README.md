@@ -20,7 +20,7 @@
 ---
 
 ### 🤓 What's on My Plate
-* **Gym Simulator (Unity Game):** A game development project showcasing in-game physics and object manipulation using Unity and C#. This simulator game features a fun experience where you own a gym and must run the gym while also staying fit yourself. Currently, there are implementations for a leveling system, a physics-driven bench press feature, adding and removing weight plates to lifts, and a scalable difficulty formula that links character strength to the current weight they're attempting to lift.
+* **Gym Simulator (Unity Game):** A game development project showcasing in-game physics and object manipulation using Unity and C#. This simulator game creates a fun experience in which you are the owner of a gym. The player must operate and maintain the gym, while also managing their own fitness. Currently, there are implementations for a leveling system, a physics-driven bench press feature, adding and removing weight plates to lifts, and a scalable difficulty that links character strength to the current weight they're attempting to lift.
 * **Education:**  My Bachelor's Degree in Computer Science - Southern New Hampshire University (March 2026) 
 
 ---
